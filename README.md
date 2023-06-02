@@ -1,4 +1,4 @@
-# Multithreaded-Programming-Exercise
+# multithreaded-programming-exercise
 ## 利用Multi-threading來同時計算餘弦相似係數(Cosine similarity coefficient)
 ### 目的說明:
 在多份文件中尋找關鍵文件，所謂關鍵文件說明如下，在一個有M個文件的文件集合 $D={d_1,d_2 , ... , d_M}$ 中，關鍵文件 $d_k$ 就是與其他文件的相似度平均值最高的文件。
